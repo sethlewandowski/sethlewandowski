@@ -7,7 +7,7 @@
 - 💰 Personal finance blog https://thefrugalfeline.com
 - 🖥 Personal site https://sethlewandowski.com
 
-"The people crazy enough to think they can change the world are usually the ones that do." 
+> The people crazy enough to think they can change the world are usually the ones that do.
 
 <!---
 sethlewandowski/sethlewandowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
