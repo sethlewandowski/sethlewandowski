@@ -1,11 +1,9 @@
 # Seth Lewandowski
 
 - 👋 Hi, I’m @sethlewandowski
-- 👀 I’m interested in internet privacy, open source, personal finance, and crypto/blockchain tech. 
-- 🌱 I’m currently learning angular and let typeScript: string;  
-- 💞️ I’m looking to collaborate on anything and/or simply meet other developers. 
-- 📫 How to reach me - sethlew@protonmail.com
-- ⛏ JS, MERN/MEAN, Ubuntu, OSx
+- 👀 I’m interested in internet privacy + personal finance. 
+- 🌱 I am learning Angular.
+- ⛏ I work with Angular, TS, Node, and Nest. 
 - 💰 Personal finance blog https://thefrugalfeline.com
 - 🖥 Personal site https://sethlewandowski.com
 
