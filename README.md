@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @sethlewandowski
 - 👀 I’m interested in internet privacy + financial independence. 
-- 🌱 I am learning more about financial independence and tax strategies.
+- 🌱 I am learning more about financial independence.
 - ⛏ I work professionally with Angular, TS, Node, and Nest. 
 - 💰 Personal finance blog https://thefrugalfeline.com
 - 🖥 Personal site https://sethlewandowski.com
