@@ -8,5 +8,3 @@
 - 🖥 Personal site https://sethlewandowski.com
 - 🍻 Local Happy Hour Finder https://smileyhour.com
 - 🚑 Cash-Pay Health Care Shopping App https://youchoosehealthcare.com
-
-> The people crazy enough to think they can change the world are usually the ones that do.
